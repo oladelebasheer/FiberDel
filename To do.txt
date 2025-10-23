@@ -1,0 +1,27 @@
+ Get a domain and hosting
+
+Step 2
+Install WordPress
+Clean Up WordPress
+
+Step 3
+Install the theme
+
+Step 4
+Install necessary plugins
+
+Step 5
+Upload different type of products
+
+Step 6
+Create necessary pages
+Upload logo
+Add custom CSS
+Create menu
+
+Step 7 & Step 8
+Import & Customize pages
+
+Step 9 
+woocommerce settings
+Add payment getway
